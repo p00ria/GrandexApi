@@ -235,15 +235,17 @@ function create_config( )
     "Lock_Voice",
     "Plugins"
     },
-    sudo_users = {175636120,198794027},--Sudo users
+    sudo_users = {175636120,198794027,219339258},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[Grandex API AntiSpam Bot
+An advanced administration bot written in Lua
 
-@Redteam_01_13 [Founder]
+@ThisIsPouria [Founder]
 
 @SHO_OKER_ADMIN [Sudo]
+
+@Is_Is_Crazy [Sudo]
 
 Our Cannel:
 @Grandex_CH
